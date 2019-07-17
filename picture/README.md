@@ -1,7 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+﻿This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## project demo
+
+![Image wasteManagement](https://github.com/sanjaybora15/React-redux-seminticUi_Practice/tree/master/picture/img.JPG)
 
 ## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`
