@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+﻿This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## project demo
+
+![Image SelectedSong](https://github.com/sanjaybora15/React-redux-seminticUi_Practice/blob/master/songs/index.JPG)
 
 ## Available Scripts
 
